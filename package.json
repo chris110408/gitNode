@@ -1,0 +1,23 @@
+{
+  "name": "gitnode",
+  "version": "0.0.1",
+  "description": "learn node and github",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chris110408/gitNode.git"
+  },
+  "keywords": [
+    "node",
+    "github"
+  ],
+  "author": "chris",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chris110408/gitNode/issues"
+  },
+  "homepage": "https://github.com/chris110408/gitNode#readme"
+}
